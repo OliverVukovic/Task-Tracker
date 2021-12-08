@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Zaduzenje broj 1",
+      "day": "2021-12-08",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Zaduzenje br 2",
+      "day": "2021-12-18",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Zaduzenje br 3",
+      "day": "2021-12-25",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Zaduzenje br 4",
+      "day": "2021-12-31",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
